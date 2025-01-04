@@ -1,0 +1,11 @@
+name = "portfolio"
+type = "typescript"
+
+account_id = "bc111993b3cdb6c5c5eda20c3d306ecd"
+workers_dev = true
+compatibility_date = "2023-10-01"
+
+main = "./dist/index.js"
+
+[site]
+bucket = "./dist"
